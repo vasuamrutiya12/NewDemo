@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.853);
+    background-size: cover;
+    color: rgb(171, 221, 196);
+    font-size: 22px;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 7px solid rgba(255, 255, 255, 0.805);
+    margin: 0.5rem;
+}
+
+h3{
+    text-align: right;
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.flesh{
+    background-color: rgb(237, 17, 164);
+}
+.userflesh{
+    background-color:aqua;
+}
